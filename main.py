@@ -13,7 +13,7 @@ playload = {
 
 headerst = {
 
-    'authorization': 'MTA3MTQ2MzEwNjQ5NDA3OTA3Ng.G3sMml.-hKyq1CHo_U8RcY_P8f6rIREA3Raa7ck2osssI' # < < توكن الحساب الاول
+    'authorization': '' # < < توكن الحساب الاول
 
 }
 
